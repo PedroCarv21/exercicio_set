@@ -35,11 +35,11 @@ public class Program {
 		}
 		catch (IOException ioe) {
 			System.out.println(ioe.getMessage());
+			//new comment
 		}
 		
 		
 		System.out.printf("Total de usuarios: %d", totalUsers.size());
-		// primeiro comentario
 		sc.close();
 		
 		
